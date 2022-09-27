@@ -1,0 +1,36 @@
+*{
+  margin:0;
+  background-color: #AAC0AF;
+}
+.big-pic{
+  justify-content: center;
+  width: 100%;
+  max-height: 20%;
+  overflow: hidden;
+
+}
+.big-pic img{
+  display:block;
+  margin:auto;
+
+}
+
+.icons{
+display:flex;
+justify-content:space-between;
+background-color: #839791;
+}
+.icons p{
+  background-color: #839791;
+  margin: 5rem;
+}
+.pictures{
+  display:flex;
+  justify-content: space-between;
+  background-color: #896978;
+}
+.pictures img{
+  height: 15%;
+  width: 15%;
+  background-color:#896978;
+}
